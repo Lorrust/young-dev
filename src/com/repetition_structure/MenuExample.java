@@ -16,7 +16,6 @@ public class MenuExample {
 		String order = "";
 
 		int option = 6;
-//		Test
 		do {
 			option = Integer.parseInt(JOptionPane.showInputDialog(menu));
 			

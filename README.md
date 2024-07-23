@@ -4,13 +4,14 @@ A collection of code projects and examples I've developed during my software dev
 
 ## Structure
 
-The files are organized into directories (packages) based on the projects and topics covered during my internship:
+The files are structured within folders (packages) based on topics covered during the internship:
 
 ### intro
   - **basics**: Foundational principles, operators, and basic syntax.
   - **decision_structure**: If-else and switch statements.
   - **repetition_structure**: For and while loops.
-  - **first_exam**: 5 challenges to solidify the concepts above.
+  - **first_exam**: 5 challenges to test the knowledge of concepts.
+  - **exercises**: Multiple problems to consolidate learning.
 
 ###### Packages are organized within the *src* directory.
 

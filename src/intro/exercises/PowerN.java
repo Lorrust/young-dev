@@ -1,4 +1,4 @@
-package intro.repetition_structure.exercises;
+package intro.exercises;
 
 import javax.swing.JOptionPane;
 

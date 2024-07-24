@@ -1,12 +1,8 @@
 package intro.matrix;
 
-import java.util.Random;
-
 public class MatrixExample {
 	
 	public static void main(String[] args) {
-		
-		Random r = new Random();
 		
 		int[][] matrix1 = new int[4][4];		
 		
@@ -52,7 +48,6 @@ public class MatrixExample {
 //		Sum rows
 		
 		System.out.println("Row sums");
-//		for (int )
 			
 //		Sum main diagonal
 		

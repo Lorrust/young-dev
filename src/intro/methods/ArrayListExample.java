@@ -34,21 +34,13 @@ public class ArrayListExample {
     public static int menu() {
         String m = "1 - Register\n" + "2 - List All\n" + "3 - Search by Name\n" + "4 - Exit";
 
-        int option = 0;
-
-        try {
-            option = Integer.parseInt(JOptionPane.showInputDialog(m));
+        int option = Integer.parseInt(JOptionPane.showInputDialog(m));
             if (option < 1 || option > 4) {
                 JOptionPane.showMessageDialog(null, "Invalid option. Please choose between 1 and 4.");
-                option = menu(); // Recursive call to handle invalid input
+                option = menu();
             }
-        } catch (NumberFormatException e) {
-            JOptionPane.showMessageDialog(null, "Invalid input. Please enter a number between 1 and 4.");
-            option = menu(); // Recursive call to handle invalid input
+            return option;
         }
-
-        return option;
-    }
 
     public static void register(ArrayList<String> list) {
         String name = JOptionPane.showInputDialog("Enter name:");

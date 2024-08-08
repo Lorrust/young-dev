@@ -51,4 +51,3 @@ public class StreamExample {
 	}
 
 }
- joa was here

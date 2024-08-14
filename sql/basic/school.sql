@@ -41,7 +41,7 @@ CONSTRAINT teacher_pk PRIMARY KEY (id)
 );
 
 
--- class
+-- CLASS
 CREATE SEQUENCE IF NOT EXISTS class_id_seq;
 
 CREATE TABLE IF NOT EXISTS class

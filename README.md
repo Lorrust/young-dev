@@ -11,7 +11,6 @@ A collection of code projects and examples I've developed during my software dev
 
 ## Technologies
 
-<img align="left" alt="Java" width=80px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="Eclipse" width=80px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
-<img align="left" alt="Git" width=80px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="PostgreSQL" width=80px style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<div>
+    <img src="https://skillicons.dev/icons?i=java,eclipse,git,postgres" />
+</div>
